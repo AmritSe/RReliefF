@@ -1,5 +1,6 @@
 # RReliefF
 ## Python Implementation of RReliefF - a feature selection tool for regression problems
+### Created by Amrit Sethi
 
 RReliefF is a a feature selection tool for regression problems that helps in determining the predictive performance of the different features in a data set.
 
